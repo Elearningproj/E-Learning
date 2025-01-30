@@ -1,0 +1,8 @@
+package com.project.Entity;
+
+public class Lesson extends BaseEntity{
+	
+	private lessonname;
+	
+
+}

@@ -1,0 +1,7 @@
+package com.project.dto;
+
+public class baseDTO {
+    private void name() {
+		
+	}
+}

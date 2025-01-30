@@ -1,0 +1,8 @@
+package com.project.dto;
+
+public class baseDTO {
+    private Long id;
+    
+    private Loc
+    
+}

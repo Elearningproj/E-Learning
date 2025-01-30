@@ -1,0 +1,14 @@
+package com.project.Service;
+
+import com.project.dto.AuthReqDTO;
+
+import jakarta.validation.Valid;
+
+public class UserService {
+
+	public Object SignIn(@Valid AuthReqDTO dto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

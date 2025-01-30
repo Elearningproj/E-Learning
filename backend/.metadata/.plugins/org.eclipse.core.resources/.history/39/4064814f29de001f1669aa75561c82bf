@@ -1,0 +1,13 @@
+package com.project.Entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+
+public class Lesson extends BaseEntity{
+	
+	private String lesson_name;
+	 private String source_link;
+	 private String video_link;
+
+}

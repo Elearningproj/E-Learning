@@ -1,0 +1,10 @@
+package com.project.Service;
+
+import com.project.dto.AuthReqDTO;
+
+import jakarta.validation.Valid;
+
+public interface UserService {
+
+	UserRespDTO signIn(AuthRequest dto);
+}

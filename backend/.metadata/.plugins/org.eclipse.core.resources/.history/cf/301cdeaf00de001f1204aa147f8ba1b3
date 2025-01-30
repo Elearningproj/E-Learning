@@ -1,0 +1,19 @@
+package com.project.Service;
+
+import org.springframework.stereotype.Service;
+
+import com.project.Entity.Course;
+
+import jakarta.transaction.Transactional;
+
+@Service
+@Transactional
+public class CourseServiceImpl implements CourseService{
+
+	@Override
+	public String addNewCourse(Course course) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

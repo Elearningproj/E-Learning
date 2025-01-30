@@ -1,0 +1,28 @@
+package com.project.Service;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.project.Dao.LessonDao;
+import com.project.Entity.Lesson;
+
+import jakarta.transaction.Transactional;
+
+@Service
+@Transactional
+public class LessonServiceImpl implements  LessonService{
+
+	@Autowired
+	private LessonDao lessonDao;
+	
+	@Autowired
+	private ModelMapper modelMapper;
+	
+	@Override
+	public String addNewLesson(Lesson lesson) {
+		Lesson lessonP
+		return null;
+	}
+
+}

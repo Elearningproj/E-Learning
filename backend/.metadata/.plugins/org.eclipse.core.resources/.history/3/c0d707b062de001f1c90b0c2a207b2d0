@@ -1,0 +1,6 @@
+package com.project.Controller;
+
+@RestC
+public class LessonController {
+
+}

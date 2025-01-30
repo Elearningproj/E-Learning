@@ -1,0 +1,9 @@
+package com.project.Service;
+
+import com.project.Entity.Lesson;
+
+public interface LessonService {
+
+	Object addNewLesson(Lesson lesson);
+
+}

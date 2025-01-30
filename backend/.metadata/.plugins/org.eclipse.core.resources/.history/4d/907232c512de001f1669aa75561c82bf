@@ -1,0 +1,10 @@
+package com.project.dto;
+
+public class CourseRespDTO {
+
+	   private String course_name;
+	    private int price;
+	    private String instructor;
+	    private String description;
+	    private String video_link;
+}

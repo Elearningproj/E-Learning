@@ -1,0 +1,12 @@
+package com.project.dto;
+
+public class baseDTO {
+    private Long id;
+    
+    private LocalDate CreatedOn;
+    
+    private LocalDateTime UpdatedOn;
+    
+    
+    
+}
