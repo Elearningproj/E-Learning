@@ -1,4 +1,5 @@
 import Navbar from "../../Components/Admin/Navbar";
+import './admin.css'
 
 function AdminDashboard() {
   return (

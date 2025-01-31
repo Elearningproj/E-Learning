@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
-import { deleteItemFromCart, getCartItems, updateCart } from '../services/cart'
+import { deleteItemFromCart, getCartItems, updateCart } from '../../services/cart'
 import { toast } from 'react-toastify'
-import CartItem from '../components/CartItem'
+import CartItem from '../../Components/User/CartItem'
 import './Cart.css'
-import { placeOrder } from '../services/order'
+import { placeOrder } from '../../services/order'
 import { useDispatch } from 'react-redux'
 import { deleteProduct } from '../../slices/cartSlice'
 

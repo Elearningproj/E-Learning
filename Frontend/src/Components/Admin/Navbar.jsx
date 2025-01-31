@@ -1,5 +1,6 @@
-import { Link, useNavigate } from "react-router-dom";
+ import { Link, useNavigate } from "react-router-dom";
 import onlineLearning from '../../images/Admin/online-learning.png';
+
 
 function Navbar() {
   // get navigate function

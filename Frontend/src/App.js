@@ -17,9 +17,9 @@ function App() {
                      <Route path='/ManageCourses' element={<ManageCourses />} /> 
                      <Route path='/ManageUsers' element={<ManageUsers />} /> 
                      <Route path='/ManageLessons' element={<ManageLessons />} /> 
-                     <Route path='/AdminDashboard' element={<AdminDashboard />} /> 
+                     <Route path='/' element={<AdminDashboard />} /> 
                      <Route path='/Certificate' element={<Certificate />} /> 
-                     <Route path='/' element={<Cart />} /> 
+                     <Route path='/Cart' element={<Cart />} /> 
                      
 
             </Routes>
