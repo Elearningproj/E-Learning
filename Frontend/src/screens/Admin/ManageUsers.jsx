@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import Navbar from "../../Components/Admin/Navbar";
 
-import './admin.css'
 
 import deleteIcon from '../../images/Admin/delete.png';
 import userAvatar from '../../images/Admin/user-avatar.png';

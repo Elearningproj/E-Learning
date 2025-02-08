@@ -1,9 +1,0 @@
-package com.project.Service;
-
-import com.project.Entity.Lesson;
-
-public interface LessonService {
-
-	Obstject addNewLesson(Lesson lesson);
-
-}

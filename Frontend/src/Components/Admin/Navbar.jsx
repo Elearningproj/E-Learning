@@ -1,6 +1,5 @@
- import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import onlineLearning from '../../images/Admin/online-learning.png';
-
 
 function Navbar() {
   // get navigate function
@@ -19,7 +18,7 @@ function Navbar() {
 
   return (
     <nav class="border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
-      <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-1">
         <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
           <img src={onlineLearning} class="h-8" alt="Logo" />
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
@@ -55,7 +54,7 @@ function Navbar() {
             <li>
               <a
                 href="/"
-                class="block py-2 px-3 md:p-0 text-white bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent"
+                class="block py-2 px-5 md:p-0 text-black bg-blue-700 rounded-sm md:bg-transparent md:text-blue-700 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent"
                 aria-current="page"
               >
                 Home

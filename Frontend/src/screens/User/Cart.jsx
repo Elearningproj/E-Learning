@@ -7,6 +7,7 @@ import { placeOrder } from '../../services/order'
 import { useDispatch } from 'react-redux'
 import { deleteProduct } from '../../slices/cartSlice'
 
+
 function Cart() {
   const [items, setItems] = useState([])
 
