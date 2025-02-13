@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\elearningbackend .net\\elearningbackend\\elearn\\elearning\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|solutionrelative:elearning\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\elearningbackend .net\\elearningbackend\\elearn\\elearning\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|solutionrelative:elearning\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211090010_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELearning\\Migrations\\20250211090010_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\elearningbackend .net\\elearningbackend\\elearn\\elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|solutionrelative:elearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084609_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELearning\\Migrations\\20250211084609_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\elearningbackend .net\\elearningbackend\\elearn\\elearning\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|solutionrelative:elearning\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084119_MyMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELearning\\Migrations\\20250211084119_MyMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211083927_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ELearning\\Migrations\\20250211083927_MyMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\elearningbackend .net\\elearningbackend\\elearn\\elearning\\elearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9F7A313-24EC-46A5-B2DB-A80B4B1AAC64}|ELearning\\ELearning.csproj|solutionrelative:elearning\\elearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Database\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "ELearning\\Database\\MyDbContext.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Database\\MyDbContext.cs",
+              "RelativeToolTip": "ELearning\\Database\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:40:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250211084119_MyMigration1.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084119_MyMigration1.cs",
+              "RelativeDocumentMoniker": "ELearning\\Migrations\\20250211084119_MyMigration1.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084119_MyMigration1.cs",
+              "RelativeToolTip": "ELearning\\Migrations\\20250211084119_MyMigration1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:41:20.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250211083927_MyMigration.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211083927_MyMigration.cs",
+              "RelativeDocumentMoniker": "ELearning\\Migrations\\20250211083927_MyMigration.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211083927_MyMigration.cs",
+              "RelativeToolTip": "ELearning\\Migrations\\20250211083927_MyMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:39:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Program.cs",
+              "RelativeDocumentMoniker": "ELearning\\Program.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Program.cs",
+              "RelativeToolTip": "ELearning\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:24:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ELearning\\Model\\User.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Model\\User.cs",
+              "RelativeToolTip": "ELearning\\Model\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:19:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ELearning\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ELearning\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:14:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250211090010_MyMigration.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211090010_MyMigration.cs",
+              "RelativeDocumentMoniker": "ELearning\\Migrations\\20250211090010_MyMigration.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211090010_MyMigration.cs",
+              "RelativeToolTip": "ELearning\\Migrations\\20250211090010_MyMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:00:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250211084609_MyMigration.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084609_MyMigration.cs",
+              "RelativeDocumentMoniker": "ELearning\\Migrations\\20250211084609_MyMigration.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\Migrations\\20250211084609_MyMigration.cs",
+              "RelativeToolTip": "ELearning\\Migrations\\20250211084609_MyMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:46:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ELearning.csproj",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\ELearning.csproj",
+              "RelativeDocumentMoniker": "ELearning\\ELearning.csproj",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\Backend\\ELearningBackend .net\\ELearningBackend\\ELearn\\ELearning\\ELearning.csproj",
+              "RelativeToolTip": "ELearning\\ELearning.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T08:14:42.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

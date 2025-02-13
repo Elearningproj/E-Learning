@@ -1,0 +1,230 @@
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.Development.json
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.json
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.staticwebassets.endpoints.json
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.exe
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.deps.json
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.runtimeconfig.json
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.pdb
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Humanizer.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\MySqlConnector.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.AssemblyReference.cache
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfoInputs.cache
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfo.cs
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.CoreCompileInputs.cache
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cs
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cache
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\scopedcss\bundle\ELearning.styles.css
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.build.ELearning.props
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ELearning.props
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ELearning.props
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.Up2Date
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.dll
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\refint\ELearning.dll
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.pdb
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.genruntimeconfig.cache
+D:\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ref\ELearning.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.AssemblyReference.cache
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfoInputs.cache
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfo.cs
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.CoreCompileInputs.cache
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cs
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cache
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\refint\ELearning.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.pdb
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.Development.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.staticwebassets.endpoints.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.exe
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.deps.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.runtimeconfig.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.pdb
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Humanizer.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\MySqlConnector.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\scopedcss\bundle\ELearning.styles.css
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.build.ELearning.props
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ELearning.props
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ELearning.props
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.Up2Date
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.genruntimeconfig.cache
+D:\selfstudy\Project\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ref\ELearning.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.Development.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\appsettings.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.staticwebassets.endpoints.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.exe
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.deps.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.runtimeconfig.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\ELearning.pdb
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Humanizer.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\MySqlConnector.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.AssemblyReference.cache
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfoInputs.cache
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.AssemblyInfo.cs
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.CoreCompileInputs.cache
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cs
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.MvcApplicationPartsAssemblyInfo.cache
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.sourcelink.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\scopedcss\bundle\ELearning.styles.css
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.ELearning.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.build.ELearning.props
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ELearning.props
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ELearning.props
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.csproj.Up2Date
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\refint\ELearning.dll
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.pdb
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ELearning.genruntimeconfig.cache
+D:\Sunbeam\My_Git_Data\E-Learning\Backend\ELearningBackend .net\ELearningBackend\ELearn\ELearning\obj\Debug\net6.0\ref\ELearning.dll
