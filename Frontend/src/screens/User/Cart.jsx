@@ -6,6 +6,8 @@ import './Cart.css'
 import { placeOrder } from '../../services/order'
 import { useDispatch } from 'react-redux'
 import { deleteProduct } from '../../slices/cartSlice'
+import DashboardNavbar from '../../Components/User/DashboardNavbar'
+import  Sidebar  from "../../Components/User/Sidebar"
 
 
 function Cart() {
@@ -78,10 +80,12 @@ function Cart() {
 
   return (
     <div>
+      <DashboardNavbar />
+      <Sidebar />
       <h2 className='header'>Cart</h2>
       {items.length == 0 && (
-        <h4>
-          There are no items in your cart. Please add one to place an order
+        <h4 className='header'>
+          Add items to place an order.
         </h4>
       )}
 

@@ -1,157 +1,182 @@
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { toast } from "react-toastify";
 import { signup } from "../../services/Student";
+import img from "../../images/User/logn.jpg";
 
 function Register() {
-  const [firstName, setFirstName] = useState("");
-  const [lastName, setLastName] = useState("");
+  const [id, setId] = useState(3);
+  const [userName, setUserName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
-  const [phone, setPhone] = useState("");
+  const [phno, setPhno] = useState("");
+  const [dob, setDob] = useState("");
+  const [gender, setGender] = useState("");
+  const [role, setRole] = useState("Learner");
 
-  // get navigate function
   const navigate = useNavigate();
 
   const onSignup = async () => {
-    if (firstName.length == 0) {
-      toast.warn("Please enter first name");
-    } else if (lastName.length == 0) {
-      toast.warn("Please enter last name");
-    } else if (email.length == 0) {
-      toast.warn("Please enter email");
-    } else if (phone.length == 0) {
-      toast.warn("Please enter phone number");
-    } else if (password.length == 0) {
-      toast.warn("Please enter password");
-    } else if (confirmPassword.length == 0) {
-      toast.warn("Please confirm password");
-    } else if (password != confirmPassword) {
-      toast.warn("Password does not match");
+    if (userName.length === 0) {
+      toast.warn("Please enter your username");
+    } else if (email.length === 0) {
+      toast.warn("Please enter your email");
+    } else if (phno.length === 0) {
+      toast.warn("Please enter your phone number");
+    } else if (password.length === 0) {
+      toast.warn("Please enter your password");
+    } else if (confirmPassword.length === 0) {
+      toast.warn("Please confirm your password");
+    } else if (password !== confirmPassword) {
+      toast.warn("Passwords do not match");
+    } else if (dob.length === 0) {
+      toast.warn("Please enter your date of birth");
+    } else if (gender.length === 0) {
+      toast.warn("Please select your gender");
     } else {
-      const result = await signup(firstName, lastName, email, password, phone);
-      if (result["status"] == "success") {
-        toast.success("Successfully registered a new admin");
-
-        // go back
-        navigate(-1);
-      } else {
-        toast.error(result["error"]);
+      try {
+        // Prepare the request body
+        const requestBody = {
+          userName,
+          email,
+          password,
+          phno,
+          dob: new Date(dob).toISOString().split("T")[0], // Format dob as YYYY-MM-DD
+          gender,
+          role: parseInt(role), // Ensure role is a number
+        };
+  
+        console.log("Request Body:", requestBody);
+  
+        // Call the signup API
+        const result = await signup(requestBody);
+  
+        if (result.status === "success") {
+          toast.success("Successfully registered a new user");
+          navigate("/Login");
+        } else {
+          toast.error(result.error || "Registration failed");
+        }
+      } catch (error) {
+        toast.error("An error occurred during signup: " + error.message);
       }
     }
   };
 
   return (
-    <body
-      style={{
-        backgroundImage: "url('/image/logn.jpg')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        height: "100%",
-      }}
-    >
-      <div>
-        <div className="row">
-          <div className="col"></div>
-          <div
-            className="col"
-            style={{ backgroundColor: "white", marginTop: "20px" }}
-          >
-            
-            <div class="flex justify-center mt-4">
-              <span class="bg-yellow-100 text-yellow-800 text-lg font-medium me-2 px-10.5 py-7.5 rounded-sm dark:bg-yellow-900 dark:text-yellow-300">
-                Register
-              </span>
-            </div>
-
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>First Name</b>
-              </label>
-              <input
-                onChange={(e) => setFirstName(e.target.value)}
-                type="text"
-                className="form-control"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>Last Name</b>
-              </label>
-              <input
-                onChange={(e) => setLastName(e.target.value)}
-                type="text"
-                className="form-control"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>Email</b>
-              </label>
-              <input
-                onChange={(e) => setEmail(e.target.value)}
-                type="email"
-                className="form-control"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>Phone Number</b>
-              </label>
-              <input
-                onChange={(e) => setPhone(e.target.value)}
-                type="tel"
-                className="form-control"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>Password</b>
-              </label>
-              <input
-                onChange={(e) => setPassword(e.target.value)}
-                type="password"
-                className="form-control"
-              />
-            </div>
-            <div className="mb-3">
-              <label htmlFor="">
-                <b>Confirm Password</b>
-              </label>
-              <input
-                onChange={(e) => setConfirmPassword(e.target.value)}
-                type="password"
-                className="form-control"
-              />
-            </div>
-
-            <div className="mb-3">
-              <div>
-                <b> Already have an account? </b>
-                <a
-                  href="/login"
-                  class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-                >
-                  Login
-                </a>
+    <>
+      <ToastContainer position="top-right" autoClose={3000} />
+      <div
+        style={{
+          // backgroundImage: `url(${img})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          height: "100%",
+        }}
+      >
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-md-6 bg-white p-4 rounded mt-4">
+              <h2 className="text-center">Register</h2>
+              <div className="mb-3">
+                <label>
+                  <b>Username</b>
+                </label>
+                <input
+                  onChange={(e) => setUserName(e.target.value)}
+                  type="text"
+                  className="form-control"
+                />
               </div>
-              <button onClick={onSignup} className="mt-3 btn btn-success">
+              <div className="mb-3">
+                <label>
+                  <b>Email</b>
+                </label>
+                <input
+                  onChange={(e) => setEmail(e.target.value)}
+                  type="email"
+                  className="form-control"
+                />
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Phone Number</b>
+                </label>
+                <input
+                  onChange={(e) => setPhno(e.target.value)}
+                  type="tel"
+                  className="form-control"
+                />
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Date of Birth</b>
+                </label>
+                <input
+                  onChange={(e) => setDob(e.target.value)}
+                  type="date"
+                  className="form-control"
+                />
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Gender</b>
+                </label>
+                <select
+                  onChange={(e) => setGender(e.target.value)}
+                  className="form-control"
+                >
+                  <option value="">Select Gender</option>
+                  <option value="Male">Male</option>
+                  <option value="Female">Female</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Password</b>
+                </label>
+                <input
+                  onChange={(e) => setPassword(e.target.value)}
+                  type="password"
+                  className="form-control"
+                />
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Confirm Password</b>
+                </label>
+                <input
+                  onChange={(e) => setConfirmPassword(e.target.value)}
+                  type="password"
+                  className="form-control"
+                />
+              </div>
+              <div className="mb-3">
+                <label>
+                  <b>Role</b>
+                </label>
+                <select
+                  onChange={(e) => setRole(e.target.value)}
+                  className="form-control"
+                >
+                  <option value="1">Learner</option>
+                  <option value="2">Admin</option>
+                </select>
+              </div>
+              <button onClick={onSignup} className="btn btn-success w-100 mt-3">
                 Signup
               </button>
+              <div className="text-center mt-2">
+                <b>Already have an account?</b> <Link to="/login">Login</Link>
+              </div>
             </div>
-            <b> Go to home? </b>
-            <a
-              href="/home"
-              class="font-medium text-blue-600 dark:text-blue-500 hover:underline"
-            >
-              Home
-            </a>
           </div>
-          <div className="col"></div>
         </div>
       </div>
-    </body>
+    </>
   );
 }
 
