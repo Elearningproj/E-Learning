@@ -1,9 +1,0 @@
-package com.project.Service;
-
-import org.springframework.stereotype.Service;
-
-@Service
-@T
-public class CourseServiceImpl implements CourseService{
-
-}
