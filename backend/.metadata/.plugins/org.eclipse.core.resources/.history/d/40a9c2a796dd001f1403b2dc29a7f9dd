@@ -1,6 +1,0 @@
-package com.sunbeam.entity;
-
-public enum UserRole {
-
-	Admin,Learner
-}

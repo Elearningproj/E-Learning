@@ -1,9 +1,0 @@
-package com.project.Entity;
-
-public class Lesson extends BaseEntity{
-	
-	private String lessonname;
-	
-	
-
-}

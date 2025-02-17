@@ -1,9 +1,0 @@
-package com.project.Service;
-
-import com.project.Entity.Course;
-
-public interface CourseService {
-
-	Object addNewCourse(Course course);
-
-}
