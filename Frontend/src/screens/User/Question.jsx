@@ -1,161 +1,56 @@
-import { useEffect, useState } from 'react'
-import { deleteItemFromCart, getCartItems, updateCart } from '../services/cart'
-import { toast } from 'react-toastify'
-import CartItem from '../components/CartItem'
-import './Cart.css'
-import { placeOrder } from '../services/order'
-import { useDispatch } from 'react-redux'
-import { deleteProduct } from '../../slices/cartSlice'
+import { useEffect, useState } from "react";
+import { getQuestionsByCourseId } from "../../services/questionService";
 
-function Cart() {
-  const [items, setItems] = useState([])
-
-  // get the dispatcher
-  const dispatcher = useDispatch()
-
-  const loadCartItems = async () => {
-    const result = await getCartItems()
-    console.log(result)
-    if (result['status'] == 'success') {
-      setItems(result['data'])
-    } else {
-      toast.error(result['error'])
-    }
-  }
-
-  const getSubtotal = () => {
-    let total = 0
-    for (const item of items) {
-      total += item['quantity'] * item['price']
-    }
-
-    return total
-  }
-
-  const updateQuantity = async (cartId, newQuantity) => {
-    if (newQuantity == 0) {
-      // user no longer wants to keep this product in cart
-      const result = await deleteItemFromCart(cartId)
-      if (result['status'] == 'success') {
-        toast.success('Successfully deleted item from cart')
-
-        // update the itemCount in cartSlice
-        dispatcher(deleteProduct())
-
-        // refresh the list of items
-        loadCartItems()
-      } else {
-        toast.error(result['error'])
-      }
-    } else {
-      const result = await updateCart(cartId, newQuantity)
-      if (result['status'] == 'success') {
-        // refresh the list of items
-        loadCartItems()
-      } else {
-        toast.error(result['error'])
-      }
-    }
-  }
+function Question({ courseId }) {
+  const [questions, setQuestions] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    loadCartItems()
-  }, [])
-
-  const onPlaceOrder = async () => {
-    const totalAmount = getSubtotal() + getSubtotal() * 0.18
-    const result = await placeOrder(totalAmount)
-    if (result['status'] == 'success') {
-      toast.success('Successfully placed your order')
-
-      // refresh the list of items
-      loadCartItems()
-    } else {
-      toast.error(result['error'])
+    if (!courseId) {
+      setError("Invalid course ID.");
+      setLoading(false);
+      return;
     }
-  }
+  
+    async function loadQuestions() {
+      setLoading(true);
+      try {
+        const data = await getQuestionsByCourseId(courseId);
+        console.log("Fetched Questions in React:", data); // Debugging
+        setQuestions(data);
+      } catch (err) {
+        setError("Failed to load questions");
+      } finally {
+        setLoading(false);
+      }
+    }
+  
+    loadQuestions();
+  }, [courseId]);
+  
+  if (loading) return <p>Loading questions...</p>;
+  if (error) return <p style={{ color: "red" }}>{error}</p>;
 
   return (
     <div>
-      <h2 className='header'>Cart</h2>
-      {items.length == 0 && (
-        <h4>
-          There are no items in your cart. Please add one to place an order
-        </h4>
-      )}
-
-      {items.length > 0 && (
-        <div className='row'>
-          <div className='col-9'>
-            <table className='table table-hover table-bordered'>
-              <thead>
-                <tr>
-                  <th>No</th>
-                  <th>Image</th>
-                  <th>Title</th>
-                  <th>Price</th>
-                  <th>Quantity</th>
-                  <th>Total</th>
-                </tr>
-              </thead>
-              <tbody>
-                {items.map((item, index) => {
-                  return (
-                    <CartItem
-                      item={item}
-                      index={index}
-                      onUpdateQuantity={(newQuantity) => {
-                        updateQuantity(item['id'], newQuantity)
-                      }}
-                    />
-                  )
-                })}
-              </tbody>
-            </table>
-          </div>
-          <div className='col-3 '>
-            <div className='cart-summary'>
-              <div>
-                <label htmlFor='' style={{ width: 100 }}>
-                  # Items:
-                </label>
-                <span style={{ fontWeight: 'bold' }}>{items.length}</span>
-              </div>
-              <div>
-                <label htmlFor='' style={{ width: 100 }}>
-                  Subtotal:
-                </label>
-                <span style={{ fontWeight: 'bold' }}>₹ {getSubtotal()}</span>
-              </div>
-              <div>
-                <label htmlFor='' style={{ width: 100 }}>
-                  GST:
-                </label>
-                <span style={{ fontWeight: 'bold' }}>
-                  ₹ {(getSubtotal() * 0.18).toFixed(2)}
-                </span>
-              </div>
-              <hr />
-              <div>
-                <label htmlFor='' style={{ width: 100 }}>
-                  Cart Total:
-                </label>
-                <span style={{ fontWeight: 'bold' }}>
-                  ₹ {(getSubtotal() + getSubtotal() * 0.18).toFixed(2)}
-                </span>
+      <h2>Questions for Course {courseId}</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {questions.length > 0 ? (
+          questions.map((question) => (
+            <div key={question.id} className="shadow-md rounded-xl overflow-hidden">
+              <div className="p-4">
+                <h2 className="text-xl font-semibold mb-2">{question.question}</h2>
+                <p className="text-gray-600 text-sm mb-4">{question.answer || "No answer available"}</p>
               </div>
             </div>
-
-            <div style={{ textAlign: 'center' }}>
-              <button onClick={onPlaceOrder} className='btn btn-success mt-2'>
-                Place Order
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
+          ))
+        ) : (
+          <p>No questions available.</p>
+        )}
+      </div>
     </div>
-  )
+  );
 }
 
-export default Cart
+export default Question;

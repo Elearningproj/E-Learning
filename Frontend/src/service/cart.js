@@ -1,71 +1,51 @@
-import axios from 'axios'
-import { createUrl } from '../utils'
+import axios from "axios";
 
-export async function getCartItems() {
-  try {
-    const url = createUrl('cart/')
-    const token = sessionStorage['token']
-    const response = await axios.get(url, {
-      headers: {
-        token,
-      },
-    })
+const API_URL = "http://localhost:8080/learner/cart";
 
-    return response.data
-  } catch (ex) {
-    return { status: 'error', error: ex }
+export const getCartItems = async (userId) => {
+  const response = await axios.get(`${API_URL}/${userId}`);
+  return response.data;
+};
+
+export const removeCourseFromCart = async (userId, courseId) => {
+  await axios.delete(`${API_URL}/${userId}/${courseId}`);
+};
+
+
+export const addCourseToCart = async (courseId) => {
+  const userId = localStorage.getItem("userId");
+
+  if (!userId) {
+    console.error("User ID is missing. Cannot add course to cart.");
+    return null;
   }
+
+  try {
+    const response = await axios.post(`http://localhost:8080/learner/cart/${userId}/${courseId}`);
+    console.log("Course added to cart:", response.data);
+    return response.data;
+  } catch (error) {
+    console.error("Error adding course to cart:", error);
+    return null;
+  }
+};
+
+
+
+
+export const getPurchasedCourses = async (userId) => {
+  const response = await axios.get(`/learner/cart/purchased/${userId}`);
+  return response.data;
+};
+
+export async function fetchCartItems(userId) {
+  const response = await fetch(`/api/cart/${userId}/courses`);
+  if (!response.ok) {
+    throw new Error("Failed to fetch cart items");
+  }
+  return response.json();
 }
 
-export async function addToCart(productId, quantity, price) {
-  try {
-    const url = createUrl('cart/')
-    const token = sessionStorage['token']
-    const body = { productId, quantity, price }
-    const response = await axios.post(url, body, {
-      headers: {
-        token,
-      },
-    })
 
-    return response.data
-  } catch (ex) {
-    return { status: 'error', error: ex }
-  }
-}
 
-export async function updateCart(cartId, quantity) {
-  try {
-    const url = createUrl('cart/' + cartId + '/' + quantity)
-    const token = sessionStorage['token']
-    const response = await axios.patch(
-      url,
-      {},
-      {
-        headers: {
-          token,
-        },
-      }
-    )
 
-    return response.data
-  } catch (ex) {
-    return { status: 'error', error: ex }
-  }
-}
-
-export async function deleteItemFromCart(cartId) {
-  try {
-    const url = createUrl('cart/' + cartId)
-    const token = sessionStorage['token']
-    const response = await axios.delete(url, {
-      headers: {
-        token,
-      },
-    })
-
-    return response.data
-  } catch (ex) {
-    return { status: 'error', error: ex }
-  }
-}

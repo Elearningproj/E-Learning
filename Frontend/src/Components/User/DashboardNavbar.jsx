@@ -1,9 +1,14 @@
+import { useSelector } from 'react-redux'
 import { Link, useNavigate } from 'react-router-dom'
-
+import cartIcon from "../../images/User/shopping-cart_1014680.png"
+import logo from "../../images/User/idea_18096067.png"
 
 function DashboardNavbar() {
   // get navigate function
-//   const navigate = useNavigate()
+  const navigate = useNavigate()
+
+  // get the item count from cart slice
+  const count = useSelector((state) => state.cart.itemCount)
 
   const onLogout = () => {
     // cleat the session storage
@@ -13,52 +18,46 @@ function DashboardNavbar() {
     sessionStorage.removeItem('phone')
 
     // go to login screen
-    // navigate('/login')
+    navigate('/login')
   }
 
   return (
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid" style={{backgroundColor:"",height:"70px", width:"100%"}}> 
-    <a href="#" class="logo">
-      
-      </a>
-      <a class="navbar-brand" href="home" style={{marginLeft:"30px",color:"#213555"}} ><h4><b>Welcome !</b></h4></a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav" children>
-        {/* <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" style={{marginLeft:"30px",color:"#D8C4B6"}} aria-current="page" href="courses">Courses</a>
+    <nav className='navbar navbar-expand-lg rounded' data-bs-theme='dark' style={{ backgroundColor: '#eca444' }}>
+      <div className='container-fluid' >
+        {/* Brand/Logo */}
+        <a className='navbar-brand' href='#'>
+        <img
+              src={logo}
+              alt='logo'
+              style={{ width: '26px', height: '25px' }} // Adjust size and spacing
+            />
+         
+        </a>
+
+        {/* Nav Items */}
+        <ul className='navbar-nav'>
+          {/* Cart Link */}
+          <img
+              src={cartIcon}
+              alt='Cart'
+              style={{ width: '24px', height: '30px' }} // Adjust size and spacing
+            />
+          <li className='nav-item'  style={{marginRight:"20px"}}>
+            <Link className='nav-link' to='/cart'>
+               ({count})
+            </Link>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" style={{marginLeft:"30px",color:"#D8C4B6"}} href="contact">Contact</a>
+
+          {/* Logout Button */}
+          <li className='nav-item'>
+            <button onClick={onLogout} className='btn btn-link nav-link'>
+              Logout
+            </button>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" style={{marginLeft:"30px",color:"#D8C4B6"}} href="about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link"style={{marginLeft:"30px",color:"#D8C4B6"}} href="/login" >Login</a>
-            <link to="/login"/>
-         </li>
-         <li class="nav-item">
-            <a class="nav-link"style={{marginLeft:"30px",color:"#D8C4B6"}} href="register" >Register</a>
-            <link to="/register"/>
-         </li>
-         <form class="d-flex" role="search" style={{marginLeft:"450px"}}>
-      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-      <button class="btn btn-outline-success" type="submit" style={{marginLeft:"30px"}}>Search</button>
-    </form>
-    <li class="nav-item">
-            <a class="nav-link"style={{marginLeft:"30px",color:"#D8C4B6"}} href="home" >Logout</a>
-            <link to="/logout"/>
-         </li>
-        </ul> */}
-        
+        </ul>
       </div>
-    </div>
-  </nav>
-  )
+    </nav>
+  );
 }
 
-export default DashboardNavbar;
+export default DashboardNavbar

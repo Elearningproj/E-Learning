@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background:linear-gradient(90deg, #86385b 8.26%, rgba(20, 120, 118, 0.58) 99.96%);
+    overflow: scroll;
+  }
+  body::-perfect-scrollbar{
+    display: none;
+  }
