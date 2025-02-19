@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\backend\\Solution1\\",
+  "WorkspaceRootPath": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\elearn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\elearn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\elearn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\elearn.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\elearn.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\elearn.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\migrations\\20250216060946_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\migrations\\20250216060946_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\migrations\\20250216060946_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\database\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,7 +53,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215095525_AddCreatedOnColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\reply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,18 +63,18 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215090708_AddCreatedOnColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215060851_myMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|e:\\backend\\solution1\\elearn\\migrations\\20250216065314_increasepasswordlength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|d:\\sunbeam\\my_git_data\\e-learning\\backend\\solution1\\elearn\\migrations\\20250216065314_increasepasswordlength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45AD714-F01F-4133-820B-0AE9B3E61D98}|ELearn\\ELearn.csproj|solutionrelative:elearn\\migrations\\20250216065314_increasepasswordlength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -85,30 +85,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Controller\\UsersController.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Controller\\UsersController.cs",
               "RelativeDocumentMoniker": "ELearn\\Controller\\UsersController.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Controller\\UsersController.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Controller\\UsersController.cs",
               "RelativeToolTip": "ELearn\\Controller\\UsersController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:02:14.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T18:02:14.021Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Program.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Program.cs",
               "RelativeDocumentMoniker": "ELearn\\Program.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Program.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Program.cs",
               "RelativeToolTip": "ELearn\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T09:28:44.987Z",
               "EditorCaption": ""
@@ -117,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ELearn.csproj",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
               "RelativeDocumentMoniker": "ELearn\\ELearn.csproj",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
               "RelativeToolTip": "ELearn\\ELearn.csproj",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -129,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ELearn",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
               "RelativeDocumentMoniker": "ELearn\\ELearn.csproj",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
               "RelativeToolTip": "ELearn\\ELearn.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-16T10:43:11.314Z"
@@ -140,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserRegistrationDto.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\UserRegistrationDto.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\UserRegistrationDto.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\UserRegistrationDto.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\UserRegistrationDto.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\UserRegistrationDto.cs",
               "RelativeToolTip": "ELearn\\Models\\UserRegistrationDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\User.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\User.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\User.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\User.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\User.cs",
               "RelativeToolTip": "ELearn\\Models\\User.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAywBMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ELearn\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Properties\\launchSettings.json",
               "RelativeToolTip": "ELearn\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -176,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "20250216065314_IncreasePasswordLength.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
               "RelativeDocumentMoniker": "ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
               "RelativeToolTip": "ELearn\\Migrations\\20250216065314_IncreasePasswordLength.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,9 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\appsettings.json",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\appsettings.json",
               "RelativeDocumentMoniker": "ELearn\\appsettings.json",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\appsettings.json",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\appsettings.json",
               "RelativeToolTip": "ELearn\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -200,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserLogin.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\UserLogin.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\UserLogin.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\UserLogin.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\UserLogin.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\UserLogin.cs",
               "RelativeToolTip": "ELearn\\Models\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "20250216060946_myMigration.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Migrations\\20250216060946_myMigration.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Migrations\\20250216060946_myMigration.cs",
               "RelativeDocumentMoniker": "ELearn\\Migrations\\20250216060946_myMigration.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Migrations\\20250216060946_myMigration.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Migrations\\20250216060946_myMigration.cs",
               "RelativeToolTip": "ELearn\\Migrations\\20250216060946_myMigration.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Database\\MyDbContext.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Database\\MyDbContext.cs",
               "RelativeDocumentMoniker": "ELearn\\Database\\MyDbContext.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Database\\MyDbContext.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Database\\MyDbContext.cs",
               "RelativeToolTip": "ELearn\\Database\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,7 +244,9 @@
               "DocumentIndex": 11,
               "Title": "20250215111839_UpdateUserTableV2.cs",
               "DocumentMoniker": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215111839_UpdateUserTableV2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215111839_UpdateUserTableV2.cs",
               "ToolTip": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215111839_UpdateUserTableV2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215111839_UpdateUserTableV2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T11:18:40.059Z"
@@ -247,7 +256,9 @@
               "DocumentIndex": 12,
               "Title": "20250215095525_AddCreatedOnColumn.cs",
               "DocumentMoniker": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215095525_AddCreatedOnColumn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215095525_AddCreatedOnColumn.cs",
               "ToolTip": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215095525_AddCreatedOnColumn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215095525_AddCreatedOnColumn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T09:55:25.718Z"
@@ -256,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Reply.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\Reply.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\Reply.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\Reply.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\Reply.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\Reply.cs",
               "RelativeToolTip": "ELearn\\Models\\Reply.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,7 +280,9 @@
               "DocumentIndex": 14,
               "Title": "20250215093525_AddCreatedOnColumn.cs",
               "DocumentMoniker": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215093525_AddCreatedOnColumn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215093525_AddCreatedOnColumn.cs",
               "ToolTip": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215093525_AddCreatedOnColumn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215093525_AddCreatedOnColumn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T09:35:25.245Z"
@@ -279,7 +292,9 @@
               "DocumentIndex": 15,
               "Title": "20250215090708_AddCreatedOnColumn.cs",
               "DocumentMoniker": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215090708_AddCreatedOnColumn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215090708_AddCreatedOnColumn.cs",
               "ToolTip": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215090708_AddCreatedOnColumn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215090708_AddCreatedOnColumn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T09:07:08.358Z"
@@ -288,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Efmigrationshistory.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\Efmigrationshistory.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\Efmigrationshistory.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\Efmigrationshistory.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\Efmigrationshistory.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\Efmigrationshistory.cs",
               "RelativeToolTip": "ELearn\\Models\\Efmigrationshistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "projectContext.cs",
-              "DocumentMoniker": "E:\\backend\\Solution1\\ELearn\\Models\\projectContext.cs",
+              "DocumentMoniker": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\projectContext.cs",
               "RelativeDocumentMoniker": "ELearn\\Models\\projectContext.cs",
-              "ToolTip": "E:\\backend\\Solution1\\ELearn\\Models\\projectContext.cs",
+              "ToolTip": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\Models\\projectContext.cs",
               "RelativeToolTip": "ELearn\\Models\\projectContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,7 +328,9 @@
               "DocumentIndex": 18,
               "Title": "20250215060851_myMigration.cs",
               "DocumentMoniker": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215060851_myMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215060851_myMigration.cs",
               "ToolTip": "D:\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215060851_myMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\selfstudy\\Project\\backend\\Solution1\\ELearn\\Migrations\\20250215060851_myMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T06:08:51.297Z"
