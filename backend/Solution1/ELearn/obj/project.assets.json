@@ -2070,23 +2070,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\seema\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
+      "projectUniqueName": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
       "projectName": "ELearn",
-      "projectPath": "E:\\backend\\Solution1\\ELearn\\ELearn.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\backend\\Solution1\\ELearn\\obj\\",
+      "projectPath": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\ELearn.csproj",
+      "packagesPath": "C:\\Users\\seema\\.nuget\\packages\\",
+      "outputPath": "D:\\Sunbeam\\My_Git_Data\\E-Learning\\backend\\Solution1\\ELearn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\seema\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

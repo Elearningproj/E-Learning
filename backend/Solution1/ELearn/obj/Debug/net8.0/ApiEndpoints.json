@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "ELearn.Controller.LoginController",
+    "Method": "Post",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginData",
+        "Type": "ELearn.Models.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ELearn.Controller.UsersController",
     "Method": "Get",
     "RelativePath": "api/Users/public",
